@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Phrasing-BOOM/static/css/main.10bbb2b4.chunk.css",
-    "main.js": "/Phrasing-BOOM/static/js/main.79031404.chunk.js",
-    "main.js.map": "/Phrasing-BOOM/static/js/main.79031404.chunk.js.map",
+    "main.css": "/Phrasing-BOOM/static/css/main.3d4da909.chunk.css",
+    "main.js": "/Phrasing-BOOM/static/js/main.a64092af.chunk.js",
+    "main.js.map": "/Phrasing-BOOM/static/js/main.a64092af.chunk.js.map",
     "runtime-main.js": "/Phrasing-BOOM/static/js/runtime-main.438d05c8.js",
     "runtime-main.js.map": "/Phrasing-BOOM/static/js/runtime-main.438d05c8.js.map",
     "static/js/2.0e6a9ffe.chunk.js": "/Phrasing-BOOM/static/js/2.0e6a9ffe.chunk.js",
     "static/js/2.0e6a9ffe.chunk.js.map": "/Phrasing-BOOM/static/js/2.0e6a9ffe.chunk.js.map",
     "index.html": "/Phrasing-BOOM/index.html",
-    "precache-manifest.2299f8ed1bc236d7d0abe6370fd4cec4.js": "/Phrasing-BOOM/precache-manifest.2299f8ed1bc236d7d0abe6370fd4cec4.js",
+    "precache-manifest.2e835b602365123f2d4f6165b1976768.js": "/Phrasing-BOOM/precache-manifest.2e835b602365123f2d4f6165b1976768.js",
     "service-worker.js": "/Phrasing-BOOM/service-worker.js",
-    "static/css/main.10bbb2b4.chunk.css.map": "/Phrasing-BOOM/static/css/main.10bbb2b4.chunk.css.map"
+    "static/css/main.3d4da909.chunk.css.map": "/Phrasing-BOOM/static/css/main.3d4da909.chunk.css.map"
   }
 }
