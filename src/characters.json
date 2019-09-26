@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "name": "Archer PI",
+    "image": "./assets/images/archerpi.png"
+},{
+    "id": 2,
+    "name": "Lana",
+    "image": "./assets/images/lana.jpg"
+},{
+    "id": 3,
+    "name": "Cyril",
+    "image": "./assets/images/cyril.jpg"
+},{
+    "id": 4,
+    "name": "Archer",
+    "image": "./assets/images/archer.jpeg"
+},{
+    "id": 5,
+    "name": "Brett",
+    "image": "./assets/images/brett.png"
+},{
+    "id": 6,
+    "name": "Barry",
+    "image": "./assets/images/barry.png"
+},{
+    "id": 7,
+    "name": "Coply",
+    "image": "./assets/images/cyborg.jpg"
+},{
+    "id": 8,
+    "name": "Katya",
+    "image": "./assets/images/katya.png"
+},{
+    "id": 9,
+    "name": "Malory",
+    "image": "./assets/images/malory.jpg"
+},{
+    "id": 10,
+    "name": "Pam and Krieger",
+    "image": "./assets/images/pamkrieger.jpg"
+},{
+    "id": 11,
+    "name": "Ray",
+    "image": "./assets/images/ray.jpg"
+},{
+    "id": 12,
+    "name": "Pam",
+    "image": "./assets/images/pam.jpg"
+},{
+    "id": 13,
+    "name": "Cheryl",
+    "image": "./assets/images/Cheryl.jpg"
+},{
+    "id": 14,
+    "name": "Cheryl",
+    "image": "./assets/images/cheryl 2.jpg"
+},{
+    "id": 15,
+    "name": "Kriger",
+    "image": "./assets/images/krieger.jpg"
+}]
