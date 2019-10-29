@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab467838903fc1aaccc50c8bc34dd976",
+    "revision": "2ac78be902d6a445ab70f83a95c56a93",
     "url": "/Phrasing-BOOM/index.html"
   },
   {
-    "revision": "f814c044e1e56d6f5c0f",
+    "revision": "79b81fb0004ebc352ba4",
     "url": "/Phrasing-BOOM/static/css/main.3d4da909.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Phrasing-BOOM/static/js/2.0e6a9ffe.chunk.js"
   },
   {
-    "revision": "f814c044e1e56d6f5c0f",
-    "url": "/Phrasing-BOOM/static/js/main.a64092af.chunk.js"
+    "revision": "79b81fb0004ebc352ba4",
+    "url": "/Phrasing-BOOM/static/js/main.f0cb908f.chunk.js"
   },
   {
     "revision": "4c1601915509a29c55df",

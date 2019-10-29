@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Phrasing-BOOM/precache-manifest.2e835b602365123f2d4f6165b1976768.js"
+  "/Phrasing-BOOM/precache-manifest.f4785eca8ceb60a17f278a86ad5205f3.js"
 );
 
 self.addEventListener('message', (event) => {
